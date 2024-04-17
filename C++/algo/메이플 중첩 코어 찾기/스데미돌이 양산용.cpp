@@ -28,7 +28,6 @@ void acm(int dp, int tt, int comb) {
 	}
 }
 
-
 int main() {
 	cin.tie(NULL);
 	cout.tie(NULL);
