@@ -50,6 +50,18 @@
     "unordered_map": "cpp",
     "vector": "cpp",
     "xhash": "cpp",
-    "xtree": "cpp"
+    "xtree": "cpp",
+    "array": "cpp",
+    "charconv": "cpp",
+    "format": "cpp",
+    "locale": "cpp",
+    "optional": "cpp",
+    "queue": "cpp",
+    "ranges": "cpp",
+    "span": "cpp",
+    "xlocbuf": "cpp",
+    "xlocmes": "cpp",
+    "xlocmon": "cpp",
+    "xloctime": "cpp"
   }
 }
